@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5c44ae0cb396d21227ba98a9"},"fkHotelId":"5c44adb8b396d21227ba98a8","checkInAt":"2019-02-10","checkOutAt":"2019-02-12","__v":0}
+{"_id":{"$oid":"5c44b9264cebda0024ee1e28"},"fkHotelId":"5c44abd0b396d21227ba98a3","checkInAt":"2019-01-20","checkOutAt":"2019-01-25","__v":0}
+{"_id":{"$oid":"5c44bc2f4cebda0024ee1e29"},"fkHotelId":"5c44abd0b396d21227ba98a3","checkInAt":"2019-01-20","checkOutAt":"2019-01-21","__v":0}
+{"_id":{"$oid":"5c44bc4c4cebda0024ee1e2a"},"fkHotelId":"5c44ace5b396d21227ba98a6","checkInAt":"2019-01-20","checkOutAt":"2019-01-22","__v":0}
+{"_id":{"$oid":"5c44bccc4cebda0024ee1e2b"},"fkHotelId":"5c44ad48b396d21227ba98a7","checkInAt":"2019-01-21","checkOutAt":"2019-01-22","__v":0}
+{"_id":{"$oid":"5c44bd5f4cebda0024ee1e2c"},"fkHotelId":"5c44adb8b396d21227ba98a8","checkInAt":"2019-21-21","checkOutAt":"2019-21-24","__v":0}
+{"_id":{"$oid":"5c44bdac4cebda0024ee1e2d"},"fkHotelId":"5c44ad48b396d21227ba98a7","checkInAt":"2019-51-22","checkOutAt":"2019-51-24","__v":0}
+{"_id":{"$oid":"5c44be0f4cebda0024ee1e2e"},"fkHotelId":"5c44ac3cb396d21227ba98a4","checkInAt":"2019-81-20","checkOutAt":"2019-81-21","__v":0}
+{"_id":{"$oid":"5c44be564cebda0024ee1e2f"},"fkHotelId":"5c44abd0b396d21227ba98a3","checkInAt":"2019-8-21","checkOutAt":"2019-8-23","__v":0}
+{"_id":{"$oid":"5c44be924cebda0024ee1e30"},"fkHotelId":"5c44ac94b396d21227ba98a5","checkInAt":"2019-10-21","checkOutAt":"2019-10-24","__v":0}

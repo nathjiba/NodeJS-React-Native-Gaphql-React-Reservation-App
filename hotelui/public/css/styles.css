@@ -1,0 +1,162 @@
+.card{
+    width: 250px;
+    border-radius: 5%;
+    height:50%;
+    background: rgba(255, 255, 255, 0.65);
+    margin-top:5%;
+}
+.card:hover { transform: scale(1.1); }
+.card-img-top{
+    width:250px;
+    height: 15vw;
+    border-radius: 5%;
+
+}
+
+.headingh1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #28346c;
+}
+.main_heading{
+    text-align: center
+}
+.searchBox{
+   margin: 0 auto;
+}
+
+a:hover{
+    text-decoration: none;
+    color:'black'
+}
+.city_name{
+    text-decoration: none;
+    color:black
+}
+.know_More{
+    color: blue
+}
+.aleft{
+    display: inline;
+    margin-left: 1%;
+}
+.nav-link{
+    color:#17a2b8 !important
+}
+.navbar-brand{
+    color:#17a2b8 !important
+}
+body{
+    background-image: url('../assets/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list_heading{
+    text-align: center;
+    text-shadow: 3px 3px #17a2b8;
+    color: #fff;
+    font-size: 48px;
+}
+.link_detail{
+ color: aliceblue;
+ background :#6c757d;
+ height: 20%;
+ width:40%;
+ padding: 10px;
+ border-radius: 5%;
+}
+.link_book{
+    color: aliceblue;
+    background :#17a2b8;
+    height: 20%;
+    width:40%;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.link_detail:hover{
+    color:aliceblue;
+    background :#60686e;
+}
+.link_book:hover{
+    color:aliceblue;
+    background :#1595a8;
+}
+h3{
+    color:#03080c
+}
+.circleRating{
+    border-radius:50%;
+    border:5px solid black;
+    height: 40px;
+    width:40px;
+    padding: 4px;
+}
+.amenities{
+    font-size: 18px;
+    
+}
+.main_detail{
+    width:70%;
+    float: left;
+    background: rgba(255, 255, 255, 0.65);
+    border-radius: 2%;
+    padding:10px;
+}
+.bookDiv{
+    width:20%;
+    float: left;
+    height:40%;
+    margin-left:5%;
+    border-radius: 5%;
+    color:#1F618D;
+    font-size:24px;
+    font-weight:700;
+    background: rgba(255, 255, 255, 0.65);
+    text-align: center;
+
+
+}
+
+.main_detail h1,.main_detail h3,.main_detail h4{
+    color:#1F618D
+}
+
+.fa-star{
+    font-size:20px !important;
+}
+
+.bookDiv .btn-info{
+    margin-bottom:8%;
+}
+.priceContainer{
+    margin-top:8%;
+}
+.card_reservation{
+    width:500px !important;
+}
+.media{
+    background: rgba(255, 255, 255, 0.65);
+}
+.booknow{
+    background: rgba(255, 255, 255, 0.65);
+    
+}
+.rounded-circle{
+    height: 230px;
+    width:230px;
+}
+.carousel-item img{
+    width:100%;
+    height:300px;
+}
+.ncheckbox{
+  margin-left:2%;
+}
+b{
+    font-size:20px;
+}
+.booknowbtn{
+    height:50px;
+    font-size:20px;
+}
