@@ -1,13 +1,12 @@
 Hotel Booking App
 
 #Technologies
-React
-React Native
-Graphlql
-Apollo Server
-Apollo Client
+NodeJS
+React + React Native
+Graphlql + Apollo
 
-## Graphql Apollo API is in hotel-api-gql folder.
+
+## NodeJS + Graphql Apollo API is in hotel-api-gql folder.
 #Backend
 Api Cretaed with graphQl Hosted on Herkou Server
 Base Url: https://hotel-management-api-gql.herokuapp.com/graphql
